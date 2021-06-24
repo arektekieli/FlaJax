@@ -1,5 +1,7 @@
 # FlaJax
 
+Extension for flarum that allows you to write complex math formulas with LaTeX syntax.
+
 1. Install flarum plugin with:
 ```
 composer require if/flajax
